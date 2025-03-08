@@ -49,3 +49,7 @@ The app fetches data from the OpenWeatherMap API.
 Weather details are displayed on the screen.
 
 If the city is not found, an error message is shown.
+
+#OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/bf055837-032c-4014-be16-20a226d2f443)
